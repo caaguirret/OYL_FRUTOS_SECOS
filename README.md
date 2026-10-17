@@ -80,6 +80,7 @@ Cuenta de demostración: `admin@admin.cl` (administrador). Los clientes se regis
 - Cambios por Pull Request, revisados por la otra integrante.
 - Commits con mensajes técnicos y descriptivos.
 - Tareas asignadas y seguidas en Trello (Por hacer / En curso / Finalizado).
+-[Ver tablero de OYL Frutos Secos](https://trello.com/invite/b/6ad3ceedbbbdab2e4139f303/ATTI00e981b4f464c6aeab61096be6fbb17fD8965DCF/oyl-frutos-secos-desarrollo-de-aplicacion)
 
 ## Datos y privacidad
 
